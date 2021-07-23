@@ -1,6 +1,7 @@
 # quantum-continued-releases
 all quantum continued releases will be published in this repo
 
+note some modules dont work cuz they're a place holder.
 
 first release!
 
