@@ -5,16 +5,27 @@ note some modules can be buggy
 
 Change log:
 redesign gui
+
 added freecam
+
 removed useless placeholders
+
 switched to renosense base
+
 added storage esp
+
 added auto walk
+
 added sprint
+
 fixed rpc hopefully
+
 removed newchunks
+
 added popchams 
+
 added xray 
+
 added visual range
 
 
