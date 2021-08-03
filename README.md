@@ -1,27 +1,22 @@
 # quantum-continued-releases
 all quantum continued releases will be published in this repo
 
-note some modules dont work cuz they're a place holder.
+note some modules can be buggy
 
-first release!
+Change log:
+redesign gui
+added freecam
+removed useless placeholders
+switched to renosense base
+added storage esp
+added auto walk
+added sprint
+fixed rpc hopefully
+removed newchunks
+added popchams 
+added xray 
+added visual range
 
-whats new:
-
--added phobos ca
-
--added newchunks
-
--added efly
-
--added rpc
-
--added chat suffix 
-
--added god module (works on some servers)
-
--added penis esp
-
--added scaffold
 
 quantum continued src repo:https://github.com/fan4145/quantum-src-releases
 
