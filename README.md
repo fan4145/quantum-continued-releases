@@ -3,30 +3,24 @@ all quantum continued releases will be published in this repo
 
 note some modules can be buggy
 
-Change log:
-redesign gui
+0.5.2 changelog
 
-added freecam
+Fixed rpc -derpyjibs,perry and noat.
+Added snine mode. -noat.
+Fixed FakePlayer. -derpy and noat.
+Fixed VisualRange. -derpy and noat.
+Added Strafe that doesn't work (for now will fix in 0.6.0 so just ignore it for now)
+Fixed a lot of possible crashes. -perry.
+Import Cleanup. -perry.
+AntiHunger. -perry.
+Cleaned up modules. -perry.
+CSGO Watermark - noat. (don't grammar police me please)
+EntityNotifier. -perry.
+yPort/Vanilla Speed. -perry.
+ShulkerAura -pasted on behalf of TuxISCool
+Urgent fix of holefiller
 
-removed useless placeholders
 
-switched to renosense base
-
-added storage esp
-
-added auto walk
-
-added sprint
-
-fixed rpc hopefully
-
-removed newchunks
-
-added popchams 
-
-added xray 
-
-added visual range
 
 
 quantum continued src repo:https://github.com/fan4145/quantum-src-releases
