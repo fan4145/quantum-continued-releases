@@ -6,13 +6,21 @@ note some modules can be buggy
 0.6.0 changelog
 
 -added auto signkick
+
 -added velocity
+
 -added jesus
+
 -added q cmd
+
 -added lawnmower
+
 -added tracers
+
 -added trajectories
+
 -added wip strafe
+
 -added auto fish
 
 note: not all modules r there from the to do list
