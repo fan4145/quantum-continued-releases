@@ -3,36 +3,19 @@ all quantum continued releases will be published in this repo
 
 note some modules can be buggy
 
-0.5.2 changelog
+0.6.0 changelog
 
-Fixed rpc -derpyjibs,perry and noat.
+-added auto signkick
+-added velocity
+-added jesus
+-added q cmd
+-added lawnmower
+-added tracers
+-added trajectories
+-added wip strafe
+-added auto fish
 
-Added snine mode. -noat.
-
-Fixed FakePlayer. -derpy and noat.
-
-Fixed VisualRange. -derpy and noat.
-
-Added Strafe that doesn't work (for now will fix in 0.6.0 so just ignore it for now)
-
-
-Fixed a lot of possible crashes. -perry.
-Import Cleanup. -perry.
-
-AntiHunger. -perry.
-
-Cleaned up modules. -perry.
-
-CSGO Watermark - noat. (don't grammar police me please)
-
-EntityNotifier. -perry.
-
-yPort/Vanilla Speed. -perry.
-
-ShulkerAura -pasted on behalf of TuxISCool
-
-Urgent fix of holefiller
-
+note: not all modules r there from the to do list
 
 
 
