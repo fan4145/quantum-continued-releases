@@ -2,26 +2,35 @@
 all quantum continued releases will be published in this repo
 
 note some modules can be buggy
+0.6.1 changelog
 
-0.6.0 changelog
 
--added auto signkick
+-added pingspoof
 
--added velocity
+-added coordleaker
 
--added jesus
+-added broken fastswim
 
--added q cmd
+-added autoreply
 
--added lawnmower
+-added chinese automine
 
--added tracers
+-added antiafk
 
--added trajectories
+-added xcarry
 
--added wip strafe
+-added auto eat
 
--added auto fish
+-added boatfly
+
+-added wip 2b ca
+
+-added wip click gui
+
+-added suicide
+
+-added nuker
+
 
 note: not all modules r there from the to do list
 
