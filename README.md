@@ -2,6 +2,7 @@
 all quantum continued releases will be published in this repo
 
 note some modules can be buggy
+
 0.6.1 changelog
 
 
