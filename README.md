@@ -2,10 +2,8 @@
 all quantum continued releases will be published in this repo
 
 
-a small update:
-alr so i just wanna provide a small update
-due to the fact that anarchy is just dead af i will be pausing all operations of quantum continued, i myself dont play anarchy anymore and the devs have school n shit, i dont have the time nor any of the other devs to continue working on this client for now atleast
-to answer any possible questions 
+news:
+this client will restart operations soon, not sure when 
 
 -will quanutm continued to resuming sooner or later? 
 
