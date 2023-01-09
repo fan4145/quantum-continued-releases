@@ -14,13 +14,12 @@ yes, quantum continued will be resuming once anarchy revives itself
 no, u dont have to be here to receive updates of the client u can just be here to chat etc (mostly speaking about the discord by the way)
 -will u continue to do shit with the community here?
 
-yes, if u havent joined the newest giveaway i recommend u do before time runs out
+that depends
 
 -will u give people early access?
 
 not until i/we decide to continue updating or developing the client
 
-it would be cool if u all can remain here just to chat or be here for giveaways (discord server)
 
 both src and release repo will be archived join the discord if you need support
 
